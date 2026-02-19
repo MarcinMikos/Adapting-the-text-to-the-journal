@@ -1,0 +1,51 @@
+journal,n_articles,if,similarity,input_title
+gps solutions,8054,4.5,0.309,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+journal of geodesy,4200,3.9,0.2772,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+remote sensing,34000,4.2,0.1736,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+sensors,34000,3.4,0.0898,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+artificial satellites-journal of planetary geodesy,29943,0.7,0.0554,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+measurement,34000,5.2,0.0527,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+reports on geodesy and geoinformatics,29947,0.3,0.0443,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+journal of applied geodesy,29799,1.2,0.0312,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+journal of geophysical research: solid earth,33979,3.9,0.0262,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+survey review,33990,1.2,0.0216,Characteristics of the IGS receiver clock performance from multi-GNSS PPP solutions
+gps solutions,8054,4.5,0.3281,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+journal of geodesy,4200,3.9,0.2711,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+remote sensing,34000,4.2,0.1877,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+sensors,34000,3.4,0.0975,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+measurement,34000,5.2,0.058,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+artificial satellites-journal of planetary geodesy,29943,0.7,0.0523,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+reports on geodesy and geoinformatics,29947,0.3,0.0459,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+journal of applied geodesy,29799,1.2,0.0335,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+journal of geophysical research: solid earth,33979,3.9,0.0298,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+survey review,33990,1.2,0.0251,Multi-GNSS PPP solutions with different handling of system-specific receiver clock parameters and inter-system biases
+gps solutions,8054,4.5,0.3203,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+journal of geodesy,4200,3.9,0.2173,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+remote sensing,34000,4.2,0.1448,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+artificial satellites-journal of planetary geodesy,29943,0.7,0.1206,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+sensors,34000,3.4,0.0774,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+measurement,34000,5.2,0.0454,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+reports on geodesy and geoinformatics,29947,0.3,0.0342,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+journal of geophysical research: solid earth,33979,3.9,0.0283,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+journal of applied geodesy,29799,1.2,0.0257,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+survey review,33990,1.2,0.0254,Stochastic modeling of the receiver clock parameter in Galileo-only and multi-GNSS PPP solutions
+journal of geodesy,4200,3.9,0.2657,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+gps solutions,8054,4.5,0.1788,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+remote sensing,34000,4.2,0.131,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+sensors,34000,3.4,0.1044,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+journal of applied geodesy,29799,1.2,0.0741,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+reports on geodesy and geoinformatics,29947,0.3,0.0631,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+artificial satellites-journal of planetary geodesy,29943,0.7,0.0618,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+measurement,34000,5.2,0.056,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+survey review,33990,1.2,0.046,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+acta astronomica,33998,2.0,0.037,Multi-GNSS time transfer with different modeling of station coordinates and troposphere delays
+gps solutions,8054,4.5,0.123,Improving the stability of real-time PPP solutions by receiver clock modeling
+journal of geodesy,4200,3.9,0.0513,Improving the stability of real-time PPP solutions by receiver clock modeling
+remote sensing,34000,4.2,0.0349,Improving the stability of real-time PPP solutions by receiver clock modeling
+survey review,33990,1.2,0.0227,Improving the stability of real-time PPP solutions by receiver clock modeling
+artificial satellites-journal of planetary geodesy,29943,0.7,0.0209,Improving the stability of real-time PPP solutions by receiver clock modeling
+reports on geodesy and geoinformatics,29947,0.3,0.0181,Improving the stability of real-time PPP solutions by receiver clock modeling
+measurement,34000,5.2,0.0176,Improving the stability of real-time PPP solutions by receiver clock modeling
+sensors,34000,3.4,0.0159,Improving the stability of real-time PPP solutions by receiver clock modeling
+journal of applied geodesy,29799,1.2,0.0081,Improving the stability of real-time PPP solutions by receiver clock modeling
+journal of geophysical research: solid earth,33979,3.9,0.0015,Improving the stability of real-time PPP solutions by receiver clock modeling
